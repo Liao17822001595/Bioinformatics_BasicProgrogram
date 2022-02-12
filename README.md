@@ -10,8 +10,8 @@ Learning diary of bioinformatics, including pipeline, practices and learning sum
 
 # Test for understanding Github 
 
-1. 20220112 - name after 
-2.  
+1. 20220212 - name after 
+2. 20220212 - what is summary (required)
 
 ## Timeline 
 Updated 20220212
